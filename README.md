@@ -4,7 +4,7 @@ In this project, we have performed Natural-Language-Processing and Ensemble lear
 
 
 <br>
-Github repo of text summarization app: https://github.com/khushantrana/textsummm
+Github repo of text summarization app: https://github.com/niyatikapoor/QnATextSummarisation
 
 Learned about Natural Language Processing techniques, feature-extraction, and conversion of Unsupervised data to Supervised data. Worked with an NLTK python library and learned about different Ensemble-techniques such as bagging, boosting, stacking, AdaBoost. 
 
